@@ -18,6 +18,8 @@ import bonobo
 import time
 import requests
 
+# Install bonobo
+#   pip3 install -U bonobo
 # Crear archivo "dot"
 #   bonobo inspect --graph 1_etl_hello_world.py > 1_etl_hello_world.dot
 # Graphviz online
