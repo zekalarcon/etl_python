@@ -15,6 +15,8 @@ import os
 
 import bonobo
 
+# Install bonobo
+#   pip3 install -U bonobo
 # Crear archivo "dot"
 #   bonobo inspect --graph 2_etl_csv.py > 2_etl_csv.dot
 # Graphviz online
