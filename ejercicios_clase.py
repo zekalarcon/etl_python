@@ -2,6 +2,8 @@ import bonobo
 import time
 import requests
 
+# Install bonobo
+#   pip3 install -U bonobo 
 # Crear archivo "dot"
 #   bonobo inspect --graph ejercicios_clase.py > ejercicios_clase.dot
 # Graphviz online
