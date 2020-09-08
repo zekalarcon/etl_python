@@ -18,6 +18,8 @@ import bonobo
 
 import productos
 
+# Install bonobo
+#   pip3 install -U bonobo
 # Crear archivo "dot"
 #   bonobo inspect --graph 4_etl_sql.py > 4_etl_sql.dot
 # Graphviz online
