@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Max",
+        "productos": [3, 5, 2]
+    },
+    {
+        "nombre": "Jean",
+        "productos": [1, 2]
+    }
+]
