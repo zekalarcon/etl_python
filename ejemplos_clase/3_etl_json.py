@@ -21,6 +21,8 @@ matplotlib.use('Agg')   # For multi thread, non-interactive backend (avoid run i
 import matplotlib.pyplot as plt
 import bonobo
 
+# Install bonobo
+#   pip3 install -U bonobo
 # Crear archivo "dot"
 #   bonobo inspect --graph 3_etl_json.py > 3_etl_json.dot
 # Graphviz online
