@@ -1,3 +1,19 @@
+#!/usr/bin/env python
+'''
+Funciones [Python]
+Ejercicios de práctica
+---------------------------
+Autor: Inove Coding School
+Version: 1.1
+Descripcion:
+Programa creado para poner a prueba los conocimientos
+adquiridos durante la clase
+'''
+
+__author__ = "Inove Coding School"
+__email__ = "alumnos@inove.com.ar"
+__version__ = "1.1"
+
 import bonobo
 import time
 import requests
