@@ -20,12 +20,10 @@ import productos
 
 # Install bonobo
 #   pip3 install -U bonobo
-# Crear archivo "dot"
-#   bonobo inspect --graph 4_etl_sql.py > 4_etl_sql.dot
-# Graphviz online
-#   http://dreampuf.github.io/GraphvizOnline/
-# Graphviz (dot) extension
-#    Abrir el archivo .dot y presionar CTRL + SHIF + V
+# NO se puede crear archivo "dot":
+# Bonobo no le gusta que tengamos importados nuestras módulos o librerías
+# a la hora de generar gráficos, es por eso que en este caso donde se está
+# importando "productos" no podemos generar el gráfico tan deseado.
 
 
 def extract():
